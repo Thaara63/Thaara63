@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Methara Sansiluni.
 - 👀 I’m interested in Web Development and AI.
-- 🌱 I’m currently learning Frontend development languages and frameworks.
+- 🌱 I’m currently learning Frontend languages and frameworks.
 - 📫 How to reach me: msansiluni@gmail.com
 - 😄 Pronouns: she/her
 
